@@ -1,5 +1,5 @@
 {
-    "python.defaultInterpreterPath": "/usr/bin/python",
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
     "python.terminal.activateEnvInCurrentTerminal": true,
     "terminal.integrated.env.osx": {
         "PATH":""
