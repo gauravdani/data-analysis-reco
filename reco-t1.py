@@ -16,7 +16,7 @@ from sqlalchemy import create_engine
 engine = create_engine(
     'snowflake://{user}:{password}@{account_identifier}/'.format(
         user='GOOGLE_DATA_STUDIO',
-        password='WUyDFm1hFTnvZrYh7YGOdkj6',
+        password='',
         account_identifier='maxdome.eu-west-1',
     )
 )
